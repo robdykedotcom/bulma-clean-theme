@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "bulma": "^0.9.1",
-    "bulma-block-list": "^0.4.1"
+    "bulma-block-list": "^0.4.1",
+    "bulma-timeline": "^3.0.4"
   }
 }
